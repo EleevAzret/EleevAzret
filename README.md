@@ -1,4 +1,4 @@
-![Header](https://github.com/EleevAzret/eleevazret/blob/main/assets/Blogging%20And%20E-commerce.png)
+![Header](https://github.com/EleevAzret/eleevazret/blob/main/assets/header.png)
 
 ## My name is Azret, I`m beginner frontend developer
 
