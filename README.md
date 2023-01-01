@@ -8,3 +8,5 @@
 ![JS](https://img.shields.io/badge/-JavaScript-1e2022?style=for-the-badge&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/-SASS(SCSS)-f6f7fa?style=for-the-badge&logo=SASS)
 ![gulp](https://img.shields.io/badge/-Gulp-d24a47?style=for-the-badge&logo=Gulp&logoColor=fff)
+
+## Ready to learn something new
