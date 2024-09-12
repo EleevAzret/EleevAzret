@@ -12,7 +12,7 @@
 ![nuxt](https://img.shields.io/badge/-Nuxt.js-1a1a1a?style=for-the-badge&logo=nuxt.js&logoColor=00bf65)
 ![TS](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=2f78c6)
 ![JS](https://img.shields.io/badge/-JavaScript-1e2022?style=for-the-badge&logo=JavaScript)
-![vuetify](https://img.shields.io/badge/-Vuetify-7330f8?style=for-the-badge&logo=vuetify&logoColor=aeddfc)
+![vuetify](https://img.shields.io/badge/-Vuetify-aeddfc?style=for-the-badge&logo=vuetify)
 ![HTML](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-1d9dd9?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS(SCSS)-f6f7fa?style=for-the-badge&logo=SASS)
