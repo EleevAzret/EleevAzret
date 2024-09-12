@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Azret!
 
-🏃 I am currently working on IRPSU projects
+🏃 I am currently working on [IRPSU](https://pfdo.ru/) projects
 
 📦 I have developed big projects like [Social Services](https://soc.pfdo.ru/) and [Myple.online](https://myple.online/)
 
