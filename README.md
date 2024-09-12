@@ -2,10 +2,10 @@
 
 ## Hi there 👋 I'm Azret!
 
-#### 🏃 I am currently working on IRPSU projects
-#### 📦 I have developed big projects like [Social Services](https://soc.pfdo.ru/) and [Myple.online](https://myple.online/)
-#### 💡 I'm getting better every day
-#### 💬 If you are interested in me, please contact me at
+🏃 I am currently working on IRPSU projects
+📦 I have developed big projects like [Social Services](https://soc.pfdo.ru/) and [Myple.online](https://myple.online/)
+💡 I'm getting better every day
+💬 If you are interested in me, please contact me at
 
 ## Languages and Tools
 ![vue](https://img.shields.io/badge/-Vue.js-1a1a1a?style=for-the-badge&logo=vue.js&logoColor=41b883)
