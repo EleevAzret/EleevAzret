@@ -3,8 +3,11 @@
 ## Hi there 👋 I'm Azret!
 
 🏃 I am currently working on IRPSU projects
+
 📦 I have developed big projects like [Social Services](https://soc.pfdo.ru/) and [Myple.online](https://myple.online/)
+
 💡 I'm getting better every day
+
 💬 If you are interested in me, please contact me at
 
 ## Languages and Tools
